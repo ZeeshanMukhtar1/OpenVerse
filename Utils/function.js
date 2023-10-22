@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
   const repoName = "ZeeshanMukhtar1/OpenVerse";
-  const token = "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";
+  const token = "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";
 
   // api call to fetch stars & watchers
   fetch(`https://api.github.com/repos/${repoName}`, {
