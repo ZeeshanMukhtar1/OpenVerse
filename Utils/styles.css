@@ -3,7 +3,6 @@ body {
   margin: 0;
   padding: 0;
 }
-
 .header {
   background-color: #333;
   color: #fff;
@@ -22,14 +21,9 @@ body {
   margin-bottom: 20px;
 }
 
-.stats {
-  font-size: 1.2rem;
-  display: flex;
-  justify-content: center;
-}
-
-.stat-item {
+.header .gh-stats a {
   margin-right: 20px;
+  padding: 5px;
 }
 
 /* contributors list */
@@ -52,11 +46,11 @@ body {
   transition: 300ms all;
   cursor: pointer;
 }
-.contributor-card:hover{
+.contributor-card:hover {
   background-color: #333;
   transform: scale(1.02);
 }
-.contributor-card:hover.contributor-card p{
+.contributor-card:hover.contributor-card p {
   color: white;
 }
 
@@ -70,4 +64,17 @@ body {
 
 .contributor-card p {
   font-weight: bold;
+}
+
+.motivation-section h2 {
+  color: #333;
+  font-size: 30px;
+}
+
+/* Utilities */
+.paddingMain {
+  padding: 0px 50px;
+}
+.textSecondary{
+  color: #5d5d5d;
 }

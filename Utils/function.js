@@ -1,27 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
   const repoName = "ZeeshanMukhtar1/OpenVerse";
-  const token = "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";
-
-  // api call to fetch stars & watchers
-  fetch(`https://api.github.com/repos/${repoName}`, {
-    headers: {
-      Authorization: `token ${token}`,
-    },
-  })
-    .then((response) => {
-      if (!response.ok) {
-        throw new Error("Network response was not ok");
-      }
-      return response.json();
-    })
-    .then((data) => {
-      const stars = data.stargazers_count;
-      const watchers = data.subscribers_count;
-
-      document.getElementById("stars").innerText = `${stars}`;
-      document.getElementById("watchers").innerText = `${watchers}`;
-    })
-    .catch((error) => console.error("Error:", error));
+  const token = "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";
 
     // api call to fetch contributors list
   fetch(`https://api.github.com/repos/${repoName}/contributors`, {
