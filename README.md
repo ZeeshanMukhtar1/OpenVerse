@@ -43,3 +43,10 @@ Are you ready to embark on this journey? Start by forking the repository, creati
 ## Project Initiatives 🚧
 
 This project is initiated by [Zeeshan Mukhtar](https://zeeshan-resume.netlify.app/) and [Yasir Nawaz](https://yasir2002.github.io/), and it's a joint initiative with the goal of guiding beginners into the world of open source, fostering collaboration, and creating meaningful open-source projects.
+
+## Repository Stats 📊
+
+[![Stars](https://img.shields.io/github/stars/ZeeshanMukhtar1/OpenVerse?style=social)](https://github.com/ZeeshanMukhtar1/OpenVerse/stargazers)
+[![Forks](https://img.shields.io/github/forks/ZeeshanMukhtar1/OpenVerse?style=social)](https://github.com/ZeeshanMukhtar1/OpenVerse/network/members)
+[![Last Commit](https://img.shields.io/github/last-commit/ZeeshanMukhtar1/OpenVerse)](https://github.com/ZeeshanMukhtar1/OpenVerse/commits/main)
+[![Contributors](https://img.shields.io/github/contributors/ZeeshanMukhtar1/OpenVerse)](https://github.com/ZeeshanMukhtar1/OpenVerse/graphs/contributors)
