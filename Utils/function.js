@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
   const repoName = "ZeeshanMukhtar1/OpenVerse";
-  const token = "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";
+  const token = "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";
 
   // api call to fetch stars & watchers
   fetch(`https://api.github.com/repos/${repoName}`, {
@@ -57,6 +57,8 @@ document.addEventListener("DOMContentLoaded", function () {
             const image = document.createElement("img");
             image.src = userData.avatar_url;
             image.alt = `${userData.name}'s Profile Picture`;
+            image.loading = "lazy";
+            
 
             const name = document.createElement("p");
             name.textContent = userData.name || userData.login;
