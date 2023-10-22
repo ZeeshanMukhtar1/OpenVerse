@@ -2,6 +2,13 @@
 
 Welcome to OpenVerse, the perfect place for open-source beginners to dive into the world of collaboration and contribute to the global open-source community. We believe in learning by doing, and this repository is here to help you get started.
 
+<img src="https://img.shields.io/badge/hacktoberfest-2023-blueviolet" alt="Hacktober Badge"/>
+<a href="https://github.com/ZeeshanMukhtar1/OpenVerse"><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
+<a href="https://github.com/ZeeshanMukhtar1/OpenVerse/pulls"><img src="https://img.shields.io/github/issues-pr/ZeeshanMukhtar1/OpenVerse" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/ZeeshanMukhtar1/OpenVerse/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ZeeshanMukhtar1/OpenVerse?color=2b9348"></a>
+<img src="https://img.shields.io/github/issues/ZeeshanMukhtar1/OpenVerse?label=Open%20Issues&color=brightgreen" alt="Open Issues Badge"/>
+<img src="https://img.shields.io/github/issues-closed/ZeeshanMukhtar1/OpenVerse?label=Closed%20Issues&color=red" alt="Closed Issues Badge"/>
+
 ## Getting Started 🚀
 
 **Step 1: Star this Repository 🌟**
