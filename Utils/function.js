@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
   const repoName = "ZeeshanMukhtar1/OpenVerse";
-  const token = "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";
+  const token = "CONTRIBUTORS_KEY";
 
     // api call to fetch contributors list
   fetch(`https://api.github.com/repos/${repoName}/contributors`, {
