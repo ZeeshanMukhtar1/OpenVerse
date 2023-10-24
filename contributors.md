@@ -1,2 +1,4 @@
 -Yasir Nawaz
 -Amaan Patel
+-Syed Maaz
+-stfuyasir
