@@ -65,3 +65,15 @@ This project is initiated by [Zeeshan Mukhtar](https://zeeshan-resume.netlify.ap
 [![Forks](https://img.shields.io/github/forks/ZeeshanMukhtar1/OpenVerse?style=social)](https://github.com/ZeeshanMukhtar1/OpenVerse/network/members)
 [![Last Commit](https://img.shields.io/github/last-commit/ZeeshanMukhtar1/OpenVerse)](https://github.com/ZeeshanMukhtar1/OpenVerse/commits/main)
 [![Contributors](https://img.shields.io/github/contributors/ZeeshanMukhtar1/OpenVerse)](https://github.com/ZeeshanMukhtar1/OpenVerse/graphs/contributors)
+
+<hr>
+
+## Collaborators
+
+<!-- readme: collaborators -start -->
+<!-- readme: collaborators -end -->
+
+## Contributors
+
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
