@@ -7,8 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
     headers: {
       Authorization: `token ${token}`,
     },
-  })
-    .then((response) => {
+  }).then((response) => {
       if (!response.ok) {
         throw new Error("Network response was not ok");
       }
