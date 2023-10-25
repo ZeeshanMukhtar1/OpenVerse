@@ -67,13 +67,3 @@ This project is initiated by [Zeeshan Mukhtar](https://zeeshan-resume.netlify.ap
 [![Contributors](https://img.shields.io/github/contributors/ZeeshanMukhtar1/OpenVerse)](https://github.com/ZeeshanMukhtar1/OpenVerse/graphs/contributors)
 
 <hr>
-
-## Collaborators
-
-<!-- readme: collaborators -start -->
-<!-- readme: collaborators -end -->
-
-## Contributors
-
-<!-- readme: contributors -start -->
-<!-- readme: contributors -end -->
