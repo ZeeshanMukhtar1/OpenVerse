@@ -12,7 +12,7 @@ Welcome to OpenVerse, the ideal place for open-source beginners to enter the rea
 [![Forks](https://img.shields.io/github/forks/ZeeshanMukhtar1/OpenVerse?style=social)](https://github.com/ZeeshanMukhtar1/OpenVerse/network/members)
 [![Last Commit](https://img.shields.io/github/last-commit/ZeeshanMukhtar1/OpenVerse)](https://github.com/ZeeshanMukhtar1/OpenVerse/commits/main)
 
-[![Your Cover Image](./Asset//openVerse_cover.png)](https://github.com/ZeeshanMukhtar1/OpenVerse)
+[![openverse Cover Image](https://imageupload.io/ib/YqcolDpROBE04Xj_1698336537.png)](https://imageupload.io/y9IFyy8Q6sQIEaI)
 
 ## Getting Started 🚀
 
