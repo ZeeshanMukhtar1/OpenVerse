@@ -61,4 +61,8 @@ This project is initiated by [Zeeshan Mukhtar](https://zeeshan-resume.netlify.ap
 
 Contribute to our open-source repository this October, and the best part? When you contribute, your name will shine on our [website](https://open-verse.netlify.app/) for the world to see. Your code, your name, and your impact, all on display for the world to see. Let's build something awesome together! 💪
 
+### join the Community..!
+
+Join our community of open-source contributors! Your ideas matter, and we're excited to have you on board. Let's collaborate and shape the future together. Connect with us on [WhatsApp Chanel](https://chat.whatsapp.com/JGsCMs4oJrE3uSBAUljiWr).
+
 ---
