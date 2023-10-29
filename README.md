@@ -46,6 +46,8 @@ Your contributions are as diverse as your creativity. Feel free to offer any of 
 - Small Projects
 - Code Snippets
 - Documentation
+- Do NOT remove other's content.
+- Styling/code can be pretty, ugly or stupid, big or small as long as it works
 
 ## Get Started Today 🌟
 
