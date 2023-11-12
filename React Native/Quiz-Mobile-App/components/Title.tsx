@@ -16,8 +16,7 @@ export default function Title({title}: TitleProps) {
 const styles = StyleSheet.create({
   title: {
     fontSize: 30,
-    fontWeight: '600',
-    color: '#000',
+    color: '#fff',
     textAlign: 'center',
     marginTop: 50,
     marginBottom: 50,
@@ -26,5 +25,6 @@ const styles = StyleSheet.create({
     paddingVertical: 16,
     justifyContent: 'center',
     alignItems: 'center',
+    fontFamily: 'Lato, Arial, sans-serif',
   },
 });

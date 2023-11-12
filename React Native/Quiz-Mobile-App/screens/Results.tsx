@@ -3,6 +3,7 @@ import React from 'react';
 import {useRoute} from '@react-navigation/native';
 import Title from '../components/Title';
 import LottieView from 'lottie-react-native';
+import BackButton from '../components/Back__btn';
 
 export default function Results({navigation}: {navigation: any}) {
   // Access the params object
@@ -20,13 +21,7 @@ export default function Results({navigation}: {navigation: any}) {
 
   return (
     <View style={styles.container}>
-      <TouchableOpacity
-        onPress={() => {
-          navigation.navigate('Home');
-        }}>
-        {/* adding back btn html icon */}
-        <Text style={styles.backButton}>&#8592;</Text>
-      </TouchableOpacity>
+      <BackButton />
       <Title title="Results" />
       <View style={styles.bannerContainer}>
         <LottieView
@@ -68,6 +63,8 @@ const styles = StyleSheet.create({
     paddingTop: 40,
     paddingHorizontal: 20,
     height: '100%',
+    backgroundColor: '#0F172A',
+    fontFamily: 'Lato, Arial, sans-serif !important',
   },
   button: {
     width: '100%',
@@ -86,11 +83,11 @@ const styles = StyleSheet.create({
     fontSize: 24,
     fontWeight: '600',
     marginBottom: 20,
-    color: '#000',
+    color: '#fff',
   },
   backButton: {
     fontSize: 20,
-    color: '#000',
+    color: '#fff',
     textAlign: 'left',
   },
 });

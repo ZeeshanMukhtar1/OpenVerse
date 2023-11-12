@@ -5,6 +5,7 @@ import {Vibration} from 'react-native';
 import {shuffleArray, handleSelectedOption} from '../utils/quizUtils';
 import LottieView from 'lottie-react-native';
 import {useRoute} from '@react-navigation/native';
+import BackButton from '../components/Back__btn';
 
 interface Question {
   question: string;
@@ -22,7 +23,7 @@ export default function Quiz({navigation}: {navigation: any}) {
   const [selectedOption, setSelectedOption] = useState<string | null>(null);
   const [isCorrect, setIsCorrect] = useState<boolean | null>(null);
 
-  const route = useRoute(); // Get the route object
+  const route = useRoute(); // Getting the route object
 
   useEffect(() => {
     getQuiz();
@@ -104,13 +105,7 @@ export default function Quiz({navigation}: {navigation: any}) {
 
   return (
     <View style={styles.container}>
-      <TouchableOpacity
-        onPress={() => {
-          navigation.navigate('Home');
-        }}>
-        <Text style={styles.backButton}>&#8592;</Text>
-      </TouchableOpacity>
-
+      <BackButton />
       {loading ? (
         <View style={styles.loadingContainer}>
           <LottieView
@@ -122,7 +117,7 @@ export default function Quiz({navigation}: {navigation: any}) {
             autoPlay
             loop
           />
-          <Text style={{fontSize: 13, color: '#000'}}>
+          <Text style={{fontSize: 13, color: '#fff'}}>
             Loading... Please wait a moment
           </Text>
         </View>
@@ -186,7 +181,7 @@ export default function Quiz({navigation}: {navigation: any}) {
             <Text
               style={{
                 fontSize: 20,
-                color: '#000',
+                color: '#fff',
                 textAlign: 'center',
                 marginTop: 40,
                 marginBottom: 20,
@@ -205,10 +200,12 @@ const styles = StyleSheet.create({
     paddingTop: 40,
     paddingHorizontal: 20,
     height: '100%',
+    backgroundColor: '#0F172A',
+    fontFamily: 'Lato, Arial, sans-serif',
   },
   backButton: {
-    fontSize: 20,
-    color: '#000',
+    fontSize: 23,
+    color: '#fff',
     textAlign: 'left',
     marginTop: 10,
     marginBottom: 20,
@@ -217,6 +214,8 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
+    backgroundColor: '#0F172A',
+    color: '#fff',
   },
   parent: {
     height: '100%',
@@ -264,9 +263,9 @@ const styles = StyleSheet.create({
   },
   question: {
     fontSize: 22,
-    color: '#000',
     textAlign: 'justify',
     letterSpacing: -1,
+    color: '#fff',
   },
   option: {
     fontSize: 18,
@@ -288,7 +287,7 @@ const styles = StyleSheet.create({
   noQuestionsText: {
     fontSize: 15,
     textAlign: 'center',
-    color: '#000',
+    color: '#fff',
   },
   nextButtonContainer: {
     position: 'absolute',

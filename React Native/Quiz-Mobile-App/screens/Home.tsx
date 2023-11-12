@@ -24,8 +24,32 @@ export default function Home({navigation}: {navigation: NavigationProp<any>}) {
     }
   };
 
+  const handleInfoPress = () => {
+    navigation.navigate('Info');
+  };
+
+  const handleAboutDeveloperPress = () => {
+    navigation.navigate('AboutDeveloper');
+    console.log('About Developer');
+  };
+
   return (
     <View style={styles.container}>
+      {/* Info icon */}
+      <TouchableOpacity onPress={handleInfoPress}>
+        <View style={styles.iconContainer}>
+          <Text style={styles.icon}>&#8505;&#65039;</Text>
+        </View>
+      </TouchableOpacity>
+      {/* About Developer icon */}
+      <TouchableOpacity onPress={handleAboutDeveloperPress}>
+        <View style={styles.iconContainerLeft}>
+          <Image
+            source={require('../assets/logo/about-logo.png')}
+            style={styles.logoImage}
+          />
+        </View>
+      </TouchableOpacity>
       <Title title="Brain Teaser" />
       <View style={styles.bannerContainer}>
         <LottieView
@@ -73,7 +97,6 @@ export default function Home({navigation}: {navigation: NavigationProp<any>}) {
     </View>
   );
 }
-
 const styles = StyleSheet.create({
   banner: {
     height: 300,
@@ -88,6 +111,8 @@ const styles = StyleSheet.create({
     paddingTop: 40,
     paddingHorizontal: 20,
     height: '100%',
+    backgroundColor: '#0F172A',
+    fontFamily: 'Lato, Arial, sans-serif',
   },
   difficultyButtons: {
     flexDirection: 'row',
@@ -108,7 +133,6 @@ const styles = StyleSheet.create({
   buttonText: {
     color: 'white',
     fontSize: 15,
-    fontWeight: '600',
   },
   startButton: {
     width: '100%',
@@ -121,14 +145,50 @@ const styles = StyleSheet.create({
   startButtonText: {
     color: 'white',
     fontSize: 24,
-    fontWeight: '600',
   },
   dificultyText: {
     fontSize: 20,
-    fontWeight: '300',
-    color: '#000',
+    color: '#fff',
     textAlign: 'center',
     marginTop: 15,
     marginBottom: 50,
+  },
+  info: {
+    position: 'absolute',
+    top: -20,
+    right: -10,
+    backgroundColor: '#0F172A',
+    padding: 10,
+    borderRadius: 16,
+  },
+  infoSize: {
+    fontSize: 20,
+    color: '#fff',
+  },
+  iconContainer: {
+    position: 'absolute',
+    top: -20,
+    right: -10,
+    backgroundColor: 'transparent',
+    padding: 10,
+    borderRadius: 16,
+  },
+  iconContainerLeft: {
+    position: 'absolute',
+    top: -20,
+    left: -10,
+    backgroundColor: 'transparent',
+    padding: 10,
+    borderRadius: 16,
+    marginLeft: 10,
+  },
+  icon: {
+    fontSize: 25,
+    color: '#fff',
+  },
+  logoImage: {
+    width: 35,
+    height: 35,
+    borderRadius: 20,
   },
 });

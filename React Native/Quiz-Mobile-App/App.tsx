@@ -4,6 +4,8 @@ import {createNativeStackNavigator} from '@react-navigation/native-stack';
 import Home from './screens/Home';
 import Quiz from './screens/Quiz';
 import Results from './screens/Results';
+import Info from './screens/Info'; // importing info page
+import AboutDeveloper from './screens/AboutDeveloper'; // importing AboutDeveloper page
 
 import SplashScreen from 'react-native-splash-screen';
 
@@ -29,6 +31,18 @@ export default function App() {
         <Stack.Screen
           name="Results"
           component={Results}
+          options={{headerShown: false}}
+        />
+        {/*  route for the info page */}
+        <Stack.Screen
+          name="Info"
+          component={Info}
+          options={{headerShown: false}}
+        />
+        {/* route for navigating to AboutDeveloper page */}
+        <Stack.Screen
+          name="AboutDeveloper"
+          component={AboutDeveloper}
           options={{headerShown: false}}
         />
       </Stack.Navigator>
