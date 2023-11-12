@@ -90,16 +90,19 @@ const styles = StyleSheet.create({
   },
   faqItem: {
     marginBottom: 20,
+    color: '#fff',
   },
   question: {
     fontSize: 18,
     fontWeight: 'bold',
     textAlign: 'justify',
     marginBottom: 7,
+    color: '#fff',
   },
   answer: {
     fontSize: 14,
     textAlign: 'justify',
+    color: '#fff',
   },
   infoTitle: {
     fontSize: 15,

@@ -22,7 +22,7 @@ export default function Results({navigation}: {navigation: any}) {
   return (
     <View style={styles.container}>
       <BackButton />
-      <Title title="Results" />
+      <Title title="Final Results" />
       <View style={styles.bannerContainer}>
         <LottieView
           style={{
@@ -35,7 +35,7 @@ export default function Results({navigation}: {navigation: any}) {
         />
         <View>
           {/* Display the score using a Text component */}
-          <Text style={styles.scoreText}>Total Score: {score}</Text>
+          <Text style={styles.scoreText}>Total Point : {score}</Text>
         </View>
       </View>
       <TouchableOpacity

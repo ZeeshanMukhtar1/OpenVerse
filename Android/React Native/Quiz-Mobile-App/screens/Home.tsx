@@ -30,7 +30,6 @@ export default function Home({navigation}: {navigation: NavigationProp<any>}) {
 
   const handleAboutDeveloperPress = () => {
     navigation.navigate('AboutDeveloper');
-    console.log('About Developer');
   };
 
   return (
@@ -38,7 +37,11 @@ export default function Home({navigation}: {navigation: NavigationProp<any>}) {
       {/* Info icon */}
       <TouchableOpacity onPress={handleInfoPress}>
         <View style={styles.iconContainer}>
-          <Text style={styles.icon}>&#8505;&#65039;</Text>
+          <Image
+            source={require('../assets/logo/info-logo.png')}
+            style={styles.logoImage}
+            onProgress={handleInfoPress}
+          />
         </View>
       </TouchableOpacity>
       {/* About Developer icon */}
@@ -47,6 +50,7 @@ export default function Home({navigation}: {navigation: NavigationProp<any>}) {
           <Image
             source={require('../assets/logo/about-logo.png')}
             style={styles.logoImage}
+            onProgress={handleAboutDeveloperPress}
           />
         </View>
       </TouchableOpacity>
@@ -187,8 +191,8 @@ const styles = StyleSheet.create({
     color: '#fff',
   },
   logoImage: {
-    width: 35,
-    height: 35,
+    width: 40,
+    height: 40,
     borderRadius: 20,
   },
 });

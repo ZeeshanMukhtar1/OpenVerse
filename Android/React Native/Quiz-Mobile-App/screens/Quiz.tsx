@@ -158,7 +158,7 @@ export default function Quiz({navigation}: {navigation: any}) {
                 style={styles.button}
                 onPress={moveToNextQuestion}
                 disabled={answered}>
-                <Text style={styles.buttonText}>Next</Text>
+                <Text style={styles.buttonText}>Skip</Text>
               </TouchableOpacity>
             </View>
           </View>
