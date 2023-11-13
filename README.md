@@ -1,4 +1,4 @@
-# OpenVerse - Your Gateway to Open Source
+# OpenVerse - Your Gateway to Open Source 
 
 Welcome to OpenVerse, the ideal place for open-source beginners to enter the realm of collaboration and contribute to the global open-source community. We believe in learning by doing, and this repository is designed to help biginers to make their very first contribution in open-source.
 
