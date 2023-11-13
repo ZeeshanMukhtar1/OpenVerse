@@ -16,11 +16,7 @@ This table highlights individuals and their respective contributions to various 
 
 ### Java Projects
 
-| Project Developer 🙎 | Project Repo 🖇️ |
-| -------------------- | --------------- |
-|                      |                 |
-|                      |                 |
-|                      |                 |
-|                      |                 |
-|                      |                 |
-|                      |                 |
+| Project Developer 🙎                             | Project Repo 🖇️                      |
+| ------------------------------------------------ | ------------------------------------ |
+| [Sana Akbar](https://github.com/Saniikhan)       | [Movie App](./Java/Hostel/)          |
+| [Usman Saeed](https://github.com/Usmanwp-expert) | [Movie App](./Java/PDF%20Converter/) |
