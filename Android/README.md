@@ -12,7 +12,7 @@ This table highlights individuals and their respective contributions to various 
 | [Deena Umar](https://github.com/deenaumar)            | [Health Care Application](./React%20Native/Health%20care/)          |
 | [Allah Husain](https://github.com/hussainmehsud)      | [Birthday Reminder](./React%20Native/Birthday-Reminder/)            |
 | [Anees Ur Rehman](https://github.com/AneesKhanTareen) | [Movie App](./React%20Native/Movie-App-React-Native/)               |
-| [Ali Nazik](https://github.com/alimotha)              | [Movie App](./React%20Native/CoinFlow/)                             |
+| [Ali Nazik](https://github.com/alimotha)              | [CoinFlow (Crypto currencies rates)](./React%20Native/CoinFlow/)    |
 
 ### Java Projects
 
