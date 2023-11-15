@@ -31,7 +31,7 @@ This table highlights individuals and their respective contributions to various 
 | [M yasin ](https://github.com/YasinMayo)                | [ Calculater 📱](./Java/Calculator/)                         |
 | [Munazza Saghir ](https://github.com/MunazaS)           | [ RBS ](./Java/RBS/)                                         |
 | [hafiz Aziz ](https://github.com/Azizhafiz)             | [ Islamic App ](./Java/Islamic%20App/)                       |
-| [Memoona Niaz ](https://github.com/Mainona)             | [ User App ](./Java/UserApp/)                                |
+| [Memoona Niaz ](https://github.com/Mainona)             | [ User App ](./Java/College%20Selector/)                     |
 | [Umar Daraz ](https://github.com/UmarDaraz01)           | [ Library managment App ](./Java/LibraryManagement/)         |
 | [M Shakeel ](https://github.com/MUHAMMADSHAKIL37)       | [ EPI HEalth App ](./Java/EPI_health/)                       |
 | [Muzma ghani ](https://github.com/muazmaghani)          | [ Tik tac Toe game ](./Java/tictactoe2/)                     |
@@ -41,7 +41,7 @@ This table highlights individuals and their respective contributions to various 
 | [M Akif ](https://github.com/Akifmalik5699)             | [Grocery Store app ](./Kotlin/GroceryStore/)                 |
 | [Abubakkar Komboh ](https://github.com/bakar009)        | [Online voting system ](./Java/onlinevotingsystem/)          |
 | [Hamza rao ](https://github.com/Hamzarao115)            | [Hotel booking app ](./Java/HotelBookingApp/)                |
-| [Abubakar talib](https://github.com/abubakarittalib)    | [city guide ](./Java/PakCity%20Guide/)                       |
+| [Abubakar talib](https://github.com/abubakarittalib)    | [City Guide ](./Java/PakCity%20Guide/)                       |
 | [Hasnain jalif](https://github.com/M-Hasnain-01)        | [Ubar Careem ](./Java/Uber/)                                 |
 | [Kashif Shah](https://github.com/kashifshahmuhammad)    | [Ecommerce Application ](./Java/E_commerce/)                 |
 | [Asad Majeed](https://github.com/asadmajeed786)         | [Event Management App ](./Java/Event%20Management%20System/) |
