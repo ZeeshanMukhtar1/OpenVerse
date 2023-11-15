@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/m_Library"
+        android:icon="@drawable/baseline_library_music_24"
+        android:title="@string/library"/>
+
+    <item android:id="@+id/m_EQUALIZER"
+         android:icon="@drawable/baseline_equalizer_24"
+         android:title="@string/equalizer"/>
+
+    <item android:id="@+id/m_Playlist"
+        android:icon="@drawable/baseline_playlist_play_24"
+        android:title="@string/playlist"/>
+
+    <item android:id="@+id/m_Queue"
+        android:icon="@drawable/baseline_queue_music_24"
+        android:title="@string/queue"/>
+
+    <item android:id="@+id/m_DriveMode"
+        android:icon="@drawable/baseline_drive_eta_24"
+        android:title="@string/drive_mode"/>
+
+    <item android:id="@+id/m_Timer"
+        android:icon="@drawable/baseline_timer_24"
+        android:title="@string/timer"/>
+
+    <item android:id="@+id/m_Cutter"
+        android:icon="@drawable/baseline_content_cut_24"
+        android:title="@string/mp3_cutter"/>
+
+    <item android:id="@+id/m_theme"
+        android:icon="@drawable/baseline_theaters_24"
+        android:title="@string/theme"/>
+
+    <item android:id="@+id/m_Record"
+        android:icon="@drawable/baseline_mic_24"
+        android:title="@string/record"/>
+
+    <item android:id="@+id/m_setiing"
+        android:icon="@drawable/baseline_settings_24"
+        android:title="@string/setting"/>
+
+
+
+</menu>

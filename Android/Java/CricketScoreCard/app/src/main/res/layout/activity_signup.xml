@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#D6C8B3"
+    android:gravity="center"
+    tools:context=".signup">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAllCaps="true"
+        android:layout_margin="15dp"
+        android:textSize="35sp"
+        android:textStyle="bold|italic"
+        android:text="sign up " />
+
+    <EditText
+        android:id="@+id/editTextText"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/white"
+        android:padding="5dp"
+        android:ems="10"
+        android:inputType="text"
+        android:layout_margin="15dp"
+        android:hint="User Name" />
+
+    <EditText
+        android:id="@+id/editTextText4"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/white"
+        android:ems="10"
+        android:padding="5dp"
+        android:inputType="text"
+        android:layout_margin="15dp"
+        android:hint="Team Name" />
+
+    <EditText
+        android:id="@+id/editTextText5"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:ems="10"
+        android:inputType="text"
+        android:padding="5dp"
+        android:background="@color/white"
+        android:layout_margin="15dp"
+        android:hint="Team location" />
+
+    <EditText
+        android:id="@+id/editTextText6"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:ems="10"
+        android:padding="5dp"
+        android:layout_margin="15dp"
+        android:background="@color/white"
+        android:inputType="textPassword"
+        android:hint="password" />
+
+    <Button
+        android:id="@+id/save"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:text="save" />
+</LinearLayout>
