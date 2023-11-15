@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499999653495",
+    "project_id": "skillset-auth",
+    "storage_bucket": "skillset-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499999653495:android:08e8231ff3c039eb4c9072",
+        "android_client_info": {
+          "package_name": "com.example.skillsetsplashscreen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2x1qzFxMPRNN_XorVQOJ4jmuW1M1rR-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -62,6 +62,8 @@ This table highlights individuals and their respective contributions to various 
 | 28         | [Kashif Mehmood](https://github.com/nouser)             | [Students Problem Application](./Java/Student%20porblems%20Application/) |
 | 29         | [Muhammad Jamil](https://github.com/nouser)             | [Traveling Application](./Java/Travelling%20Application/)                |
 | 30         | [Atif Ali](https://github.com/Atifali1270)              | [Attendance Management](./Java/Attendance%20Management/)                 |
+| 31         | [Mubashir Hassan](https://github.com/mubashirhassan1)   | [Skill Set](./Java/Skill%20Set/)                                         |
+| 32         | [Tayyab Zafar](https://github.com/nouser)               | [Mobile Store](./Java/Mobile%20Store/)                                   |
 
 </center>
 
