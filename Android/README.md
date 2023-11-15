@@ -43,4 +43,4 @@ This table highlights individuals and their respective contributions to various 
 | [ Abubakkar Komboh ](https://github.com/bakar009)       | [Online voting system ](./Java/onlinevotingsystem/)          |
 | [ Hamza rao ](https://github.com/Hamzarao115)           | [Hotel booking app ](./Java/HotelBookingApp/)                |
 | [ Abubakar talib](https://github.com/abubakarittalib)   | [city guide ](./Java/PakCity%20Guide/)                       |
-| [ Hasnain jalif](https://github.com/M-Hasnain-01)       | [city guide ](./Java/Uber/)                                  |
+| [ Hasnain jalif](https://github.com/M-Hasnain-01)       | [Ubar Careem ](./Java/Uber/)                                 |
