@@ -44,7 +44,7 @@ This table highlights individuals and their respective contributions to various 
 | 10         | [Memoona Niaz](https://github.com/Mainona)              | [User App](./Java/College%20Selector/)                                   |
 | 11         | [Umar Daraz](https://github.com/UmarDaraz01)            | [Library managment App](./Java/LibraryManagement/)                       |
 | 12         | [Muhammad Shakeel](https://github.com/MUHAMMADSHAKIL37) | [EPI HEalth App](./Java/EPI_health/)                                     |
-| 13         | [Muazma Ghani](https://github.com/muazmaghani)          | [Tik tac Toe game](./Java/tictactoe2/)                                   |
+| 13         | [Muazma Ghani](https://github.com/muazmaghani)          | [Tik tac Toe game](<./Java/TicTac%20(Muazma)/>)                          |
 | 14         | [Ateeqa Zahra](https://github.com/ateeqa-zahra)         | [Woman Safety](./Java/women%20safety/)                                   |
 | 15         | [Aamir Sharif](https://github.com/Ch-Aamir-sharif)      | [Health and Fitness](./Java/HealthFitness/)                              |
 | 16         | [Saiful Allah](https://github.com/M-Saifullah-01)       | [Budgeting App](./Java/BudgetingApp/)                                    |
