@@ -28,7 +28,6 @@ This table highlights individuals and their respective contributions to various 
 | [Talha Bin Jameel](https://github.com/Usmanwp-expert)   | [Earning Quiz App](./Java/Earning%20quiz%20app/)             |
 | [M hasnain](https://github.com/Hasnain3815)             | [Tareen Sports Academy](./Java/TareenSportsAcademy/#)        |
 | [Mubashir hameed](https://github.com/mubashirhameed123) | [ Recipe App](./Java/RecipeApp/)                             |
-| [M Mehtab](https://github.com/Mehtab703)                | [ Rock paper scicor (Kotlin) ✂️](./Kotlin/RockPaperScissor/) |
 | [M yasin ](https://github.com/YasinMayo)                | [ Calculater 📱](./Java/Calculator/)                         |
 | [Munazza Saghir ](https://github.com/MunazaS)           | [ RBS ](./Java/RBS/)                                         |
 | [hafiz Aziz ](https://github.com/Azizhafiz)             | [ Islamic App ](./Java/Islamic%20App/)                       |
