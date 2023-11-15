@@ -28,3 +28,5 @@ This table highlights individuals and their respective contributions to various 
 | [Mubashir hameed](https://github.com/mubashirhameed123) | [ Recipe App](./Java/RecipeApp/)                             |
 | [M Mehtab](https://github.com/Mehtab703)                | [ Rock paper scicor (Kotlin) ✂️](./Kotlin/RockPaperScissor/) |
 | [M yasin ](https://github.com/YasinMayo)                | [ Calculater 📱](./Java/Calculator/)                         |
+| [Munazza Saghir ](https://github.com/MunazaS)           | [ Calculater 📱](./Java/RBS/)                                |
+| [hafiz Aziz ](https://github.com/Azizhafiz)             | [ Islamic App 📱](./Java/Islamic%20App/)                     |
