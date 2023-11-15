@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#8B4AC3"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="18dp"
+        android:text="Name"
+        android:textColor="#ffff"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/editTextText"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="100dp"
+        android:background="#790A4C44"
+        android:backgroundTint="@color/white"
+        android:ems="10"
+        android:hint="abc"
+        android:inputType="number"
+        android:paddingLeft="10dp"
+        android:textColorHint="#EAE6E6" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="18dp"
+        android:text="Father Name"
+        android:textColor="#ffff"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/editTextText1"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="100dp"
+        android:background="#790A4C44"
+        android:backgroundTint="@color/white"
+        android:ems="10"
+        android:hint="......"
+        android:inputType="text"
+        android:paddingLeft="10dp"
+        android:textColorHint="#EAE6E6" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="18dp"
+        android:text="School Name"
+        android:textColor="#ffff"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/editTextText1"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="100dp"
+        android:background="#790A4C44"
+        android:backgroundTint="@color/white"
+        android:ems="10"
+        android:hint="......"
+        android:inputType="text"
+        android:paddingLeft="10dp"
+        android:textColorHint="#EAE6E6" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="18dp"
+        android:text="University"
+        android:textColor="#ffff"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/editTextText1"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="100dp"
+        android:background="#790A4C44"
+        android:backgroundTint="@color/white"
+        android:ems="10"
+        android:hint="......"
+        android:inputType="text"
+        android:paddingLeft="10dp"
+        android:textColorHint="#EAE6E6" />
+
+
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/submit"
+        android:text="Submit"
+        android:backgroundTint="#4CAF50"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        />
+
+
+</LinearLayout>
