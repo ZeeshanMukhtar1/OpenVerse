@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center|top"
+    android:layout_marginStart="10dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginEnd="10dp"
+    android:layout_marginRight="10dp"
+    android:layout_marginBottom="30dp"
+    android:background="#D8CECE"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="120dp"
+        android:layout_height="80dp"
+        android:layout_gravity="right"
+        app:srcCompat="@drawable/calculator" />
+
+    <EditText
+        android:id="@+id/etFirstValue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+        android:hint="Enter First Value"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/etSecondValue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+        android:hint="Enter Second Value"
+        android:inputType="number" />
+
+    <TextView
+        android:id="@+id/tvAns"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp" />
+
+    <Button
+        android:id="@+id/btnAdd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@android:color/black"
+        android:text="@string/plus"
+        android:textColor="#fff"
+        android:textColorHighlight="#AAA0A0"
+        android:textColorHint="#A89C9C"
+        android:textColorLink="#BCAEAE"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        app:backgroundTintMode="add" />
+
+    <Button
+        android:id="@+id/btnSubtract"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@android:color/black"
+        android:text="@string/subtract"
+        android:textColor="#fff"
+        android:textColorHighlight="#AAA0A0"
+        android:textColorHint="#A89C9C"
+        android:textColorLink="#BCAEAE"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        app:backgroundTintMode="add" />
+
+    <Button
+        android:id="@+id/btnMultiply"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="@android:color/black"
+        android:text="@string/multiply"
+        android:textColor="#fff"
+        android:textColorHighlight="#AAA0A0"
+        android:textColorHint="#A89C9C"
+        android:textColorLink="#BCAEAE"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        app:backgroundTintMode="add" />
+
+    <Button
+        android:id="@+id/btnDivide"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/black"
+        android:text="@string/divide"
+        android:textColor="#fff"
+        android:textColorHighlight="#AAA0A0"
+        android:textColorHint="#A89C9C"
+        android:textColorLink="#BCAEAE"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        app:backgroundTintMode="add" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"/>
+
+</LinearLayout>
