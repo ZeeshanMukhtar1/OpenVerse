@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity4"
+    android:background="@drawable/abc">
+
+    <Button
+        android:id="@+id/button27"
+        android:layout_width="235dp"
+        android:layout_height="63dp"
+        android:background="#37FFFFFF"
+        android:backgroundTint="#F8F5F5"
+        android:text="mischief of prayer"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.642"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.844" />
+
+    <Button
+        android:id="@+id/button26"
+        android:layout_width="235dp"
+        android:layout_height="63dp"
+        android:background="#37FFFFFF"
+        android:backgroundTint="#F8F5F5"
+        android:text="abominable prayer"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.642"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.736" />
+
+    <Button
+        android:id="@+id/button25"
+        android:layout_width="235dp"
+        android:layout_height="63dp"
+        android:background="#37FFFFFF"
+        android:backgroundTint="#F8F5F5"
+        android:text="term of prayer"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.642"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.625" />
+
+    <Button
+        android:id="@+id/button24"
+        android:layout_width="235dp"
+        android:layout_height="63dp"
+        android:background="#37FFFFFF"
+        android:backgroundTint="#F8F5F5"
+        android:text="mustahab prayer"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.642"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.514" />
+
+    <Button
+        android:id="@+id/button23"
+        android:layout_width="235dp"
+        android:layout_height="63dp"
+        android:background="#37FFFFFF"
+        android:backgroundTint="#F8F5F5"
+        android:text="obligation prayer"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.642"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.187" />
+
+    <Button
+        android:id="@+id/button22"
+        android:layout_width="235dp"
+        android:layout_height="63dp"
+        android:background="#37FFFFFF"
+        android:backgroundTint="#F8F5F5"
+        android:text="duties of prayer"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.642"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.296" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="158dp"
+        android:layout_height="54dp"
+        android:text=" Prayer"
+        android:textColor="#F6EDAD"
+        android:textSize="34sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.675"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.036" />
+
+    <Button
+        android:id="@+id/button21"
+        android:layout_width="235dp"
+        android:layout_height="63dp"
+        android:background="#37FFFFFF"
+        android:backgroundTint="#F8F5F5"
+        android:text="sunnah of prayer"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.642"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.401"
+  />
+</androidx.constraintlayout.widget.ConstraintLayout>
