@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="53dp"
+        android:background="@color/purple_500"
+        android:textColor="@color/white"
+        android:textAlignment="center"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginRight="50dp"
+        android:text="HotelBooking"
+        android:textSize="30dp" />
+
+    <TextView
+       android:id="@+id/login_text"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="User Name"
+       android:layout_marginTop="200dp"
+       android:layout_marginLeft="50dp"
+       android:layout_marginRight="50dp"
+       android:textSize="24dp"/>
+
+   <EditText
+      android:id="@+id/login"
+       android:hint="Enter Username"
+       android:padding="20dp"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginLeft="50dp"
+       android:layout_marginRight="50dp"
+      android:inputType="textPersonName"
+      android:layout_below="@+id/login_text"/>
+
+   <TextView
+       android:id="@+id/password_text"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="Password"
+       android:layout_marginTop="50dp"
+       android:layout_marginLeft="50dp"
+       android:layout_marginRight="50dp"
+       android:textSize="24dp"
+       android:layout_below="@+id/login"/>
+
+   <EditText
+       android:id="@+id/password"
+       android:padding="20dp"
+       android:hint="Enter Password"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginLeft="50dp"
+       android:layout_marginRight="50dp"
+       android:inputType="textPersonName"
+       android:layout_below="@+id/password_text"/>
+
+       <Button
+           android:id="@+id/buttonLogin"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="login"
+           android:layout_marginTop="50dp"
+           android:layout_marginLeft="50dp"
+           android:layout_marginRight="50dp"
+           android:layout_below="@+id/password"
+           android:textSize="24dp"/>
+
+
+
+</RelativeLayout>
