@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:gravity="center">
+    <!-- activity_second.xml -->
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4sp"
+        android:text="Create New Account"
+        android:textColor="#469749"
+        android:textSize="34sp" />
+
+    <EditText
+        android:id="@+id/editTextText2"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_margin="12dp"
+        android:ems="10"
+        android:hint="Name"
+        android:inputType="text"
+        tools:layout_editor_absoluteX="84dp"
+        tools:layout_editor_absoluteY="75dp" />
+
+    <EditText
+        android:id="@+id/editTextText3"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_margin="12dp"
+        android:ems="10"
+        android:inputType="text"
+        android:hint="Last Nmae"
+        tools:layout_editor_absoluteX="84dp"
+        tools:layout_editor_absoluteY="177dp" />
+
+    <EditText
+        android:id="@+id/editTextText4"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_margin="12dp"
+        android:ems="10"
+        android:inputType="text"
+        android:hint="Father Name"
+        tools:layout_editor_absoluteX="70dp"
+        tools:layout_editor_absoluteY="273dp" />
+
+    <EditText
+        android:id="@+id/editTextText5"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_margin="12dp"
+        android:ems="10"
+        android:inputType="text"
+        android:hint="Address"
+        tools:layout_editor_absoluteX="70dp"
+        tools:layout_editor_absoluteY="377dp" />
+
+    <EditText
+        android:id="@+id/editTextText6"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:ems="10"
+        android:layout_margin="12dp"
+        android:inputType="phone"
+        android:hint="phone/Email"
+        tools:layout_editor_absoluteX="84dp"
+        tools:layout_editor_absoluteY="462dp" />
+
+    <EditText
+        android:id="@+id/editTextText7"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_margin="12dp"
+        android:ems="10"
+        android:hint="Gender"
+        android:inputType="text"
+        tools:layout_editor_absoluteX="70dp"
+        tools:layout_editor_absoluteY="571dp" />
+
+    <EditText
+        android:id="@+id/editTextText8"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_margin="12dp"
+        android:ems="10"
+        android:hint="password"
+        android:inputType="text"
+        tools:layout_editor_absoluteX="70dp"
+        tools:layout_editor_absoluteY="571dp" />
+
+    <EditText
+        android:id="@+id/editTextText9"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_margin="12dp"
+        android:ems="10"
+        android:hint="conform password"
+        android:inputType="text"
+        tools:layout_editor_absoluteX="70dp"
+        tools:layout_editor_absoluteY="571dp" />
+
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="122dp"
+        android:layout_height="58dp"
+        android:text="submit"
+        app:backgroundTint="#1F5922"
+        tools:layout_editor_absoluteX="271dp"
+        tools:layout_editor_absoluteY="405dp" />
+
+
+</LinearLayout>
