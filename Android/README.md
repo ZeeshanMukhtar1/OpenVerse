@@ -16,8 +16,11 @@ This table highlights individuals and their respective contributions to various 
 
 ### Java Projects
 
-| Project Developer 🙎                                 | Project Repo 🖇️                                  |
-| ---------------------------------------------------- | ------------------------------------------------ |
-| [Sana Akbar](https://github.com/Saniikhan)           | [Hosterl Management Application](./Java/Hostel/) |
-| [Usman Saeed](https://github.com/Usmanwp-expert)     | [PDF Converter](./Java/PDF%20Converter/)         |
-| [Talha Bin Hanif](https://github.com/Usmanwp-expert) | [Earning Quiz App](./Java/Earning%20quiz%20app//)         |
+| Project Developer 🙎                                    | Project Repo 🖇️                                       |
+| ------------------------------------------------------- | ----------------------------------------------------- |
+| [Sana Akbar](https://github.com/Saniikhan)              | [Hoster Management Application](./Java/Hostel/)       |
+| [M Umair](https://github.com/Umair786786)               | [ Education App](./Java/Education%20App/)             |
+| [M. Usman Saeed](https://github.com/Usmanwp-expert)     | [PDF Converter](./Java/PDF%20Converter/)              |
+| [Talha Bin Jameel](https://github.com/Usmanwp-expert)   | [Earning Quiz App](./Java/Earning%20quiz%20app/)      |
+| [M hasnain](https://github.com/Hasnain3815)             | [Tareen Sports Academy](./Java/TareenSportsAcademy/#) |
+| [Mubashir hameed](https://github.com/mubashirhameed123) | [ Recipe App](./Java/RecipeApp/)                      |
