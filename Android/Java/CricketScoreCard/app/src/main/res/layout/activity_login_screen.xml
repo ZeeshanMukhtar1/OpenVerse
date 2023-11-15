@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="#C8CDBB"
+    tools:context=".loginScreen">
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="cricket card"
+        android:layout_marginBottom="80dp"
+        android:layout_marginLeft="25dp"
+        android:textAllCaps="true"
+        android:textStyle="bold"
+        android:textSize="40sp"/>
+
+    <EditText
+        android:id="@+id/editTextText2"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:ems="7"
+        android:layout_margin="15dp"
+        android:padding="8dp"
+        android:background="@color/white"
+        android:inputType="text"
+        android:hint="Name" />
+
+    <EditText
+        android:id="@+id/editTextText3"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:ems="7"
+        android:padding="8dp"
+        android:layout_margin="15dp"
+        android:background="@color/white"
+        android:inputType="number"
+        android:hint="Password" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="140dp"
+        android:layout_margin="15dp"
+        android:layout_height="wrap_content"
+        android:text="login" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="140dp"
+        android:layout_margin="15dp"
+        android:layout_height="wrap_content"
+        android:text="sign up" />
+</LinearLayout>
+
