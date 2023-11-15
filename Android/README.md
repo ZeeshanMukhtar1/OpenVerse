@@ -36,6 +36,7 @@ This table highlights individuals and their respective contributions to various 
 | [Umar Daraz ](https://github.com/UmarDaraz01)           | [ Library managment App ](./Java/LibraryManagement/)         |
 | [M Shakeel ](https://github.com/MUHAMMADSHAKIL37)       | [ EPI HEalth App ](./Java/EPI_health/)                       |
 | [Muzma ghani ](https://github.com/muazmaghani)          | [ Tik tac Toe game ](./Java/tictactoe2/)                     |
+| [Ateeqa Zahra ](https://github.com/ateeqa-zahra)        | [ Woman Safety ](./Java/women%20safety/)                     |
 | [Aamir Sharif ](https://github.com/Ch-Aamir-sharif)     | [ Health and Fitness ](./Java/HealthFitness/)                |
 | [Saiful Allah ](https://github.com/M-Saifullah-01)      | [ Budgeting App ](./Java/BudgetingApp/)                      |
 | [M Akif ](https://github.com/Akifmalik5699)             | [Grocery Store app ](./Kotlin/GroceryStore/)                 |
