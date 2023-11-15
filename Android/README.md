@@ -65,6 +65,7 @@ This table highlights individuals and their respective contributions to various 
 | 31         | [Mubashir Hassan](https://github.com/mubashirhassan1)   | [Skill Set](./Java/Skill%20Set/)                                         |
 | 32         | [Tayyab Zafar](https://github.com/404)                  | [Mobile Store](./Java/Mobile%20Store/)                                   |
 | 33         | [Umair Dayal](https://github.com/404)                   | [Interview Prepration Application](./Java/Interview%20Prep%20App/)       |
+| 34         | [Muhammad Ijaz](https://github.com/404)                 | [Car Parking Applicaiton](./Java/Car%20Parking/)                         |
 
 </center>
 
