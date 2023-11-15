@@ -20,9 +20,9 @@ This table highlights individuals and their respective contributions to various 
 | 10         | [Muhammad Rashid ](https://github.com/Muhammad11Rashid) | [HRM](./React%20Native/HRM/)                                                   |
 | 11         | [Maha tariq](https://github.com/maha944)                | [Job Search Application](./React%20Native/Job-search-application/)             |
 | 12         | [Burhan Ul Din](https://github.com/burhangi)            | [Code Learning Application](./React%20Native/Coding%20Learning%20application/) |
-| 13         | [Hafiz Abu Bakar](https://github.com/nouser)            | [Hotel Booking Application](./React%20Native/Hotel%20Room%20Booking%20App/)    |
-| 14         | [Saad Gul](https://github.com/nouser)                   | [Kids Learning Application](./React%20Native/Kids%20Learning%20Application/)   |
-| 15         | [Wajahat Abbas](https://github.com/nouser)              | [Learning Application](./React%20Native/Education%20Notes%20app/)              |
+| 13         | [Hafiz Abu Bakar](https://github.com/404)            | [Hotel Booking Application](./React%20Native/Hotel%20Room%20Booking%20App/)    |
+| 14         | [Saad Gul](https://github.com/404)                   | [Kids Learning Application](./React%20Native/Kids%20Learning%20Application/)   |
+| 15         | [Wajahat Abbas](https://github.com/404)              | [Learning Application](./React%20Native/Education%20Notes%20app/)              |
 
 </center>
 
@@ -57,13 +57,13 @@ This table highlights individuals and their respective contributions to various 
 | 23         | [Shahzaib](https://github.com/shahzaib4543)             | [Imtiaz Pay Now](./Java/ImtiazPayNow/)                                   |
 | 24         | [Shehrooz Hassan](https://github.com/Shehroozhassan)    | [Inspired Quotation](./Java/InspiredQuotation/)                          |
 | 25         | [Fida Khan](https://github.com/fidakhan112794)          | [Music Player Application](./Java/Music_Player/)                         |
-| 26         | [Artash Aziz](https://github.com/nouser)                | [Cricket Score Card](./Java/CricketScoreCard/)                           |
-| 27         | [Irfan Shehzad](https://github.com/nouser)              | [Tic Tac Toe](./Java/Tik%20Toc%20Tie%20game/)                            |
-| 28         | [Kashif Mehmood](https://github.com/nouser)             | [Students Problem Application](./Java/Student%20porblems%20Application/) |
-| 29         | [Muhammad Jamil](https://github.com/nouser)             | [Traveling Application](./Java/Travelling%20Application/)                |
+| 26         | [Artash Aziz](https://github.com/404)                | [Cricket Score Card](./Java/CricketScoreCard/)                           |
+| 27         | [Irfan Shehzad](https://github.com/404)              | [Tic Tac Toe](./Java/Tik%20Toc%20Tie%20game/)                            |
+| 28         | [Kashif Mehmood](https://github.com/404)             | [Students Problem Application](./Java/Student%20porblems%20Application/) |
+| 29         | [Muhammad Jamil](https://github.com/404)             | [Traveling Application](./Java/Travelling%20Application/)                |
 | 30         | [Atif Ali](https://github.com/Atifali1270)              | [Attendance Management](./Java/Attendance%20Management/)                 |
 | 31         | [Mubashir Hassan](https://github.com/mubashirhassan1)   | [Skill Set](./Java/Skill%20Set/)                                         |
-| 32         | [Tayyab Zafar](https://github.com/nouser)               | [Mobile Store](./Java/Mobile%20Store/)                                   |
+| 32         | [Tayyab Zafar](https://github.com/404)               | [Mobile Store](./Java/Mobile%20Store/)                                   |
 
 </center>
 
