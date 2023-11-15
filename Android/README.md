@@ -9,14 +9,14 @@ This table highlights individuals and their respective contributions to various 
 | [Muhammad Aqib](https://github.com/AqibMalik435)      | [Newsify (News Application)](./React%20Native/Newsify-Aqib/)       |
 | [Yasir Nawaz](https://github.com/yasir2002/)          | [WeatherWay (Weather App)](./React%20Native/Weather%20App/)        |
 | [Zeeshan Mukhtar](https://github.com/ZeeshanMukhtar1) | [Quiz Mobile App](./React%20Native/Quiz-Mobile-App/)               |
-| [Maha tariq](https://github.com/maha944)              | [Job Search Application](./React%20Native/Job-search-application/) |
-| [Deena Umar](https://github.com/deenaumar)            | [Health Care Application](./React%20Native/Health%20care/)         |
-| [Allah Husain](https://github.com/hussainmehsud)      | [Birthday Reminder](./React%20Native/Birthday-Reminder/)           |
-| [Anees Ur Rehman](https://github.com/AneesKhanTareen) | [Movie App](./React%20Native/Movie-App-React-Native/)              |
+| [Anees Ur Rehman](https://github.com/AneesKhanTareen) | [Movie App](./React%20Native/Movie%20App/)                         |
 | [Ali Nazik](https://github.com/alimotha)              | [CoinFlow (Crypto currencies rates)](./React%20Native/CoinFlow/)   |
+| [Allah Husain](https://github.com/hussainmehsud)      | [Birthday Reminder](./React%20Native/Birthday-Reminder/)           |
 | [Adeel Sadiq](https://github.com/adeelmotha)          | [ShopMe (Shopping List Creator)](./React%20Native/shopping-list/)  |
 | [Hunain Syed](https://github.com/hunainsyed)          | [ToDo Application](./React%20Native/todo-application/)             |
+| [Deena Umar](https://github.com/deenaumar)            | [Health Care Application](./React%20Native/Health%20care/)         |
 | [Rashid ](https://github.com/Muhammad11Rashid)        | [HRM](./React%20Native/HRM/)                                       |
+| [Maha tariq](https://github.com/maha944)              | [Job Search Application](./React%20Native/Job-search-application/) |
 
 ### Java Projects
 
@@ -38,7 +38,6 @@ This table highlights individuals and their respective contributions to various 
 | [Ateeqa Zahra ](https://github.com/ateeqa-zahra)        | [ Woman Safety ](./Java/women%20safety/)                     |
 | [Aamir Sharif ](https://github.com/Ch-Aamir-sharif)     | [ Health and Fitness ](./Java/HealthFitness/)                |
 | [Saiful Allah ](https://github.com/M-Saifullah-01)      | [ Budgeting App ](./Java/BudgetingApp/)                      |
-| [M Akif ](https://github.com/Akifmalik5699)             | [Grocery Store app ](./Kotlin/GroceryStore/)                 |
 | [Abubakkar Komboh ](https://github.com/bakar009)        | [Online voting system ](./Java/onlinevotingsystem/)          |
 | [Hamza rao ](https://github.com/Hamzarao115)            | [Hotel booking app ](./Java/HotelBookingApp/)                |
 | [Abubakar talib](https://github.com/abubakarittalib)    | [City Guide ](./Java/PakCity%20Guide/)                       |
