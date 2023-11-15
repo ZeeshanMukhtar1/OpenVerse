@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/appTitle"
+        android:layout_width="395dp"
+        android:layout_height="91dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="10dp"
+        android:layout_marginStart="26dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginBottom="10dp"
+        android:text="EPI HEALTH HUB"
+        android:textColor="#1E2E83"
+        android:textSize="40sp" />
+
+    <Button
+        android:id="@+id/firstAidButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/appTitle"
+        android:layout_marginTop="131dp"
+        android:text="First Aid" />
+
+    <Button
+        android:id="@+id/epiDiseaseButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/firstAidButton"
+        android:layout_marginTop="95dp"
+        android:text="EPI Disease" />
+
+    <Button
+        android:id="@+id/treatmentPlacesButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/epiDiseaseButton"
+        android:layout_marginTop="86dp"
+        android:text="Treatment Places" />
+</RelativeLayout>
