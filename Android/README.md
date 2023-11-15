@@ -39,4 +39,6 @@ This table highlights individuals and their respective contributions to various 
 | [Aamir Sharif ](https://github.com/Ch-Aamir-sharif)     | [ Health and Fitness ](./Java/HealthFitness/)                |
 | [Saiful Allah ](https://github.com/M-Saifullah-01)      | [ Budgeting App ](./Java/BudgetingApp/)                      |
 | [M Akif ](https://github.com/Akifmalik5699)             | [Grocery Store app ](./Kotlin/GroceryStore/)                 |
-| [M Akif ](https://github.com/bakar009)                  | [Online voting system ](./Java/onlinevotingsystem/)          |
+| [ Abubakkar Komboh ](https://github.com/bakar009)       | [Online voting system ](./Java/onlinevotingsystem/)          |
+| [ Hamza rao ](https://github.com/Hamzarao115)           | [Hotel booking app ](./Java/HotelBookingApp/)                |
+| [ Abubar talib](https://github.com/ abubakarittalib )   | [city guide ](./Java/PakCity%20Guide/)                       |
