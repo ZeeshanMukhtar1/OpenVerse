@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#F7FF00"
+    android:background="@drawable/homescr"
     tools:context=".MainActivity3">
 
     <ImageView
@@ -26,18 +26,18 @@
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:fontFamily="sans-serif"
+        android:fontFamily="@font/aclonica"
         android:includeFontPadding="true"
         android:rotationX="1"
         android:text="PDF Converter"
+        android:textColor="#070707"
         android:textSize="34sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.39" />
+        app:layout_constraintVertical_bias="0.392" />
 
     <Button
         android:id="@+id/imgpdf"
@@ -89,6 +89,6 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.783" />
+        app:layout_constraintVertical_bias="0.777" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

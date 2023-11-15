@@ -4,58 +4,38 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#F2FF3B"
+    android:background="@drawable/splash"
     tools:context=".MainActivity">
-
-    <ImageView
-        android:id="@+id/imageView2"
-        android:layout_width="214dp"
-        android:layout_height="220dp"
-        android:adjustViewBounds="false"
-        android:cropToPadding="false"
-        android:scrollbarSize="6dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.512"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.499"
-        app:srcCompat="@drawable/logo" />
 
     <TextView
         android:id="@+id/textView3"
-        android:layout_width="wrap_content"
+        android:layout_width="337dp"
         android:layout_height="wrap_content"
-        android:fontFamily="sans-serif"
+        android:fontFamily="@font/aclonica"
         android:includeFontPadding="true"
         android:rotationX="1"
         android:text="PDF Converter"
-        android:textSize="40sp"
+        android:textAlignment="center"
+        android:textColor="#D8F436"
+        android:textSize="55sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.222" />
+        app:layout_constraintVertical_bias="0.098" />
 
-    <TextView
-        android:id="@+id/textView4"
-        android:layout_width="306dp"
-        android:layout_height="111dp"
-        android:fontFamily="cursive"
-        android:includeFontPadding="true"
-        android:rotationX="1"
-        android:text="Be yourself! Everyone else is taken."
-        android:textAlignment="center"
-        android:textColor="#833AB7"
-        android:textSize="38sp"
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="249dp"
+        android:layout_height="238dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.495"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.839" />
+        app:layout_constraintVertical_bias="0.47"
+        app:srcCompat="@drawable/logo" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
