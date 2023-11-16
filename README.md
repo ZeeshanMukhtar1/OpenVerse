@@ -35,6 +35,8 @@ Now, with your support in place, you're ready to start contributing. Follow thes
 
 6. **Create a Pull Request (PR)**: The finishing touch! Submit a Pull Request from your fork to this repository. Our team is eager to review it, and if it's a valid program without errors, it'll become part of the community.
 
+**If you need detailed instructions and a step-by-step guide on making your first open-source contribution, check out [this article](https://zeeshanmukhtar1.hashnode.dev/your-first-open-source-contribution) It covers everything from forking the repository to making your first pull request in the Real Full Stack Project. Happy coding!**
+
 ## What Can You Contribute? 🛠️
 
 Your contributions are as diverse as your creativity. Feel free to offer any of the following:
