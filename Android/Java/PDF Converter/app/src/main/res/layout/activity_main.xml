@@ -4,13 +4,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/splash"
+    android:background="@color/black"
     tools:context=".MainActivity">
 
     <TextView
         android:id="@+id/textView3"
-        android:layout_width="337dp"
-        android:layout_height="wrap_content"
+        android:layout_width="325dp"
+        android:layout_height="129dp"
         android:fontFamily="@font/aclonica"
         android:includeFontPadding="true"
         android:rotationX="1"
@@ -21,20 +21,20 @@
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.098" />
+        app:layout_constraintVertical_bias="0.722" />
 
     <ImageView
         android:id="@+id/imageView2"
-        android:layout_width="249dp"
-        android:layout_height="238dp"
+        android:layout_width="254dp"
+        android:layout_height="241dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.47"
+        app:layout_constraintVertical_bias="0.302"
         app:srcCompat="@drawable/logo" />
 
 
