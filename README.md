@@ -1,19 +1,18 @@
-# OpenVerse - Your Gateway to Open Source
+# OpenVerse - Join the Excitement of Collaborative Learning and Dive into the Open Source Adventure!
 
-Welcome to OpenVerse, the ideal place for open-source beginners to enter the realm of collaboration and contribute to the global open-source community. We believe in learning by doing, and this repository is designed to help biginers to make their very first contribution in open-source.
+Welcome to OpenVerse, your gateway to a vibrant community dedicated to collaborative learning, communication skills, and open-source development. Our goal is to build a thriving community where members support each other's growth, foster collaboration, and contribute to meaningful open-source projects.
 
-![Hacktober Badge](https://img.shields.io/badge/hacktoberfest-2023-blueviolet)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git)](https://github.com/ZeeshanMukhtar1/OpenVerse)
-[![Pull Requests Badge](https://img.shields.io/github/issues-pr/ZeeshanMukhtar1/OpenVerse)](https://github.com/ZeeshanMukhtar1/OpenVerse/pulls)
 [![GitHub Contributors](https://img.shields.io/github/contributors/ZeeshanMukhtar1/OpenVerse?color=2b9348)](https://github.com/ZeeshanMukhtar1/OpenVerse/graphs/contributors)
-![Open Issues Badge](https://img.shields.io/github/issues/ZeeshanMukhtar1/OpenVerse?label=Open%20Issues&color=brightgreen)
-![Closed Issues Badge](https://img.shields.io/github/issues-closed/ZeeshanMukhtar1/OpenVerse?label=Closed%20Issues&color=red)
-[![Stars](https://img.shields.io/github/stars/ZeeshanMukhtar1/OpenVerse?style=social)](https://github.com/ZeeshanMukhtar1/OpenVerse/stargazers)
-[![Forks](https://img.shields.io/github/forks/ZeeshanMukhtar1/OpenVerse?style=social)](https://github.com/ZeeshanMukhtar1/OpenVerse/network/members)
-[![Last Commit](https://img.shields.io/github/last-commit/ZeeshanMukhtar1/OpenVerse)](https://github.com/ZeeshanMukhtar1/OpenVerse/commits/main)
 [![Repo Size](https://img.shields.io/github/repo-size/ZeeshanMukhtar1/OpenVerse)](https://github.com/ZeeshanMukhtar1/OpenVerse)
 
-[![openverse Cover Image](https://imageupload.io/ib/YqcolDpROBE04Xj_1698336537.png)](https://imageupload.io/y9IFyy8Q6sQIEaI)
+![openVerse cover image](https://res.cloudinary.com/daexigl1r/image/upload/v1707233260/cover_v1ity6.png)
+
+## Our Motivation 🌐
+
+At OpenVerse, we are all about four core principles: helping out, growing together, keeping things interesting, and staying motivated. With over 350 students mentored through coding challenges in our mentorship program, we've created a special place where everyone supports each other.
+
+We've also organized workshops, hackathons, and coding competitions, all with the goal of fostering a collaborative community.
 
 ## Getting Started 🚀
 
@@ -39,7 +38,7 @@ Now, with your support in place, you're ready to start contributing. Follow thes
 
 ## What Can You Contribute? 🛠️
 
-Your contributions are as diverse as your creativity. Feel free to offer any of the following:
+Your contributions are diverse, reflecting your creativity. Feel free to offer any of the following:
 
 - Basic Apps (e.g., calculator, quiz)
 - Semester Projects
@@ -49,7 +48,7 @@ Your contributions are as diverse as your creativity. Feel free to offer any of 
 - Small Projects
 - Code Snippets
 - Documentation
-- Do NOT remove other's content.
+- DO NOT remove other's content.
 - Styling/code can be pretty, ugly or stupid, big or small as long as it works
 
 ## Get Started Today 🌟
@@ -65,11 +64,3 @@ This project is initiated by [Zeeshan Mukhtar](https://zeeshan-resume.netlify.ap
 ### 🚀 Join Us, Stand Out, and Be Celebrated!
 
 Contribute to our open-source repository this October, and the best part? When you contribute, your name will shine on our [website](https://open-verse.netlify.app/) for the world to see. Your code, your name, and your impact, all on display for the world to see. Let's build something awesome together! 💪
-
-## Join Our WhatsApp Community 🚀
-
-**Don't miss out on this exciting chance to connect with like-minded individuals, exchange ideas, and be celebrated for your contributions. Let's shape the future of open source together, one line of code at a time!**
-
-See you in the [WhatsApp Chanel](https://chat.whatsapp.com/JGsCMs4oJrE3uSBAUljiWr). 🎉
-
----
