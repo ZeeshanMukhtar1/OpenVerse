@@ -12,7 +12,7 @@ Welcome to OpenVerse, your gateway to a vibrant community dedicated to collabora
 
 At OpenVerse, we're on a mission to create a collaborative space for learning and open-source contribution. Join us in shaping the future of technology through shared knowledge and creativity.
 
-## Getting Started 🚀
+## Quick Start Guide 🚀
 
 Now, you're ready to start contributing. Follow these simple steps, and you'll be contributing in no time.
 
@@ -55,8 +55,16 @@ Are you ready to embark on this journey? Start by forking the repository, creati
 
 ## Project Initiatives 🚧
 
-This project is initiated by [Zeeshan Mukhtar](https://zeeshan-resume.netlify.app/) and [Yasir Nawaz](https://yasir2002.github.io/). It's a joint initiative with the goal of guiding beginners into the world of open source, fostering collaboration, and creating meaningful open-source projects.
+This project is a local community initiative led by [Zeeshan Mukhtar](https://zeeshan-resume.netlify.app/) and [Yasir Nawaz](https://yasir2002.github.io/).Together, we're dedicated to guiding beginners into the world of open source, fostering collaboration, and creating meaningful open-source projects within our local community. OpenVerse is our hub, bringing local talents together to learn and contribute to the global open-source ecosystem. Join us in creating a supportive environment where creativity knows no bounds, and together, let's make a lasting impact on the world of technology. 🌐
 
-### 🚀 Join Us, Stand Out, and Be Celebrated!
+## Contributors 💖
 
-Contribute to our open-source repository this October, and the best part? When you contribute, your name will shine on our [website](https://open-verse.netlify.app/) for the world to see. Your code, your name, and your impact, all on display for the world to see. Let's build something awesome together! 💪
+Thanks to all the amazing contributors who have helped make OpenVerse a thriving community! 🌟
+
+<a href="https://github.com/ZeeshanMukhtar1/OpenVerse/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ZeeshanMukhtar1/OpenVerse" />
+</a>
+
+## 🚀 Join Us, Stand Out, and Be Celebrated!
+
+Contribute to our local open-source community now, and when you do, your name will shine on our [website](https://open-verse.netlify.app/) for the world to see. Your code, your name, and your impact, all on display for the local community and beyond. Let's build something awesome together! 💪
