@@ -8,19 +8,13 @@ Welcome to OpenVerse, your gateway to a vibrant community dedicated to collabora
 
 ![openVerse cover image](https://res.cloudinary.com/daexigl1r/image/upload/v1707233260/cover_v1ity6.png)
 
-## Our Motivation 🌐
+## Our Mission 🎯
 
-At OpenVerse, we are all about four core principles: helping out, growing together, keeping things interesting, and staying motivated. With over 350 students mentored through coding challenges in our mentorship program, we've created a special place where everyone supports each other.
-
-We've also organized workshops, hackathons, and coding competitions, all with the goal of fostering a collaborative community.
+At OpenVerse, we're on a mission to create a collaborative space for learning and open-source contribution. Join us in shaping the future of technology through shared knowledge and creativity.
 
 ## Getting Started 🚀
 
-**Step 1: Star this Repository 🌟**
-
-Before making your first Pull Request, show your support and help more students find their way here. Click the "star" button at the top-right to lend your support.
-
-Now, with your support in place, you're ready to start contributing. Follow these simple steps, and you'll be contributing in no time.
+Now, you're ready to start contributing. Follow these simple steps, and you'll be contributing in no time.
 
 1. **Fork this Repository**: By clicking the "Fork" button at the top-right, you create your personal copy of this repository, your canvas for collaboration. You can use [GitHub Desktop](https://desktop.github.com/) or [Git CLI](https://git-scm.com/downloads) to make this process even easier.
 
@@ -38,7 +32,7 @@ Now, with your support in place, you're ready to start contributing. Follow thes
 
 ## What Can You Contribute? 🛠️
 
-Your contributions are diverse, reflecting your creativity. Feel free to offer any of the following:
+Help us fulfill our mission by contributing to:
 
 - Basic Apps (e.g., calculator, quiz)
 - Semester Projects
@@ -50,6 +44,8 @@ Your contributions are diverse, reflecting your creativity. Feel free to offer a
 - Documentation
 - DO NOT remove other's content.
 - Styling/code can be pretty, ugly or stupid, big or small as long as it works
+- You can also contribute to the existing projects by fixing bugs, improving the code, and enhancing the user interface.
+- And anything else you can think of!
 
 ## Get Started Today 🌟
 
