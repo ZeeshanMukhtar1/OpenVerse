@@ -72,6 +72,10 @@ By contributing to OpenVerse during Hacktoberfest, your name will be showcased o
 
 Let's make Hacktoberfest 2024 the best one yet! 🏆
 
+**Project Initiatives 🚧**
+
+Led by [Zeeshan Mukhtar](https://www.codewithzeeshan.me/) and [Yasir Nawaz](https://yasirnawaz.me/), OpenVerse is a local community initiative focused on introducing beginners to open source. We aim to connect local talents, foster collaboration, and create impactful projects that contribute to the global open-source community.
+
 ## Contributors 💖
 
 Thanks to all the amazing contributors who have helped make OpenVerse a thriving community! 🌟
