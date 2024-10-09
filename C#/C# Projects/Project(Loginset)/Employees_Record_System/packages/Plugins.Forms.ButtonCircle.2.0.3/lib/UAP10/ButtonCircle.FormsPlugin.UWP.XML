@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ButtonCircle.FormsPlugin.UWP</name>
+    </assembly>
+    <members>
+        <member name="T:ButtonCircle.FormsPlugin.UWP.ButtonCircleRenderer">
+            <summary>
+            ButtonCircle Renderer
+            </summary>
+        </member>
+        <member name="M:ButtonCircle.FormsPlugin.UWP.ButtonCircleRenderer.Init">
+            <summary>
+            Used for registration with dependency service
+            </summary>
+        </member>
+        <member name="M:ButtonCircle.FormsPlugin.UWP.ButtonCircleRenderer.BlackOrWhiteForegroundTextColor(Xamarin.Forms.Color)">
+            <summary>
+            Returns black or white Xamarin Forms Color depending on the Color provided
+            </summary>
+            <param name="bg">The background XF Color to base the selection of white or black foreground color on</param>
+            <returns>Black or White XF Color</returns>
+        </member>
+        <member name="M:ButtonCircle.FormsPlugin.UWP.ButtonCircleRenderer.ChangeColorBrightness(Xamarin.Forms.Color,System.Double)">
+            <summary>
+            Creates color with corrected brightness.
+            </summary>
+            <param name="color">Color to correct.</param>
+            <param name="correctionFactor">The brightness correction factor. Must be between -1 and 1. 
+            Negative values produce darker colors.</param>
+            <returns>
+            Corrected <see cref="T:Xamarin.Forms.Color"/> structure.
+            </returns>
+        </member>
+        <member name="M:ButtonCircle.FormsPlugin.UWP.ButtonCircleRenderer.XamarinColorToUwp(Xamarin.Forms.Color)">
+            <summary>
+            Converts a Xamarin Forms Color to a Windows UI Color
+            </summary>
+            <param name="color">The Xamarin Forms Color to convert</param>
+            <returns>Windows.UI.Color</returns>
+        </member>
+        <member name="F:ButtonCircle.FormsPlugin.UWP.ButtonCircleRenderer.PillButtonStyleDictionary">
+            <summary>
+            Resource dictionary Xaml as string to use for the button
+            </summary>
+        </member>
+    </members>
+</doc>

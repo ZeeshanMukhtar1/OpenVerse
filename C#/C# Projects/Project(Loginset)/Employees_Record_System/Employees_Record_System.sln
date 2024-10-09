@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employees_Record_System", "Employees_Record_System\Employees_Record_System.csproj", "{8A7414A1-9816-4528-B610-D605E34F0228}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ADA921CD-901B-4FD4-ABBF-CC70C1CA4A86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A7414A1-9816-4528-B610-D605E34F0228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7414A1-9816-4528-B610-D605E34F0228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7414A1-9816-4528-B610-D605E34F0228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7414A1-9816-4528-B610-D605E34F0228}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D95CC8B5-401D-47EA-8010-534061A95AB0}
+	EndGlobalSection
+EndGlobal
