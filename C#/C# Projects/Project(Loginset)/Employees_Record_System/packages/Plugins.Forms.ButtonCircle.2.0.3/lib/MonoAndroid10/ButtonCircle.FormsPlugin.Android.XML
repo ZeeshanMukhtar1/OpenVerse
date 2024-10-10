@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ButtonCircle.FormsPlugin.Android</name>
+    </assembly>
+    <members>
+        <member name="T:ButtonCircle.FormsPlugin.Droid.ButtonCircleRenderer">
+            <summary>
+            ButtonCircle Renderer
+            </summary>
+        </member>
+        <member name="M:ButtonCircle.FormsPlugin.Droid.ButtonCircleRenderer.Init">
+            <summary>
+            Used for registration with dependency service
+            </summary>
+        </member>
+        <member name="M:ButtonCircle.FormsPlugin.Droid.ButtonCircleRenderer.DrawChild(Android.Graphics.Canvas,Android.Views.View,System.Int64)">
+             <summary>
+            
+             </summary>
+             <param name="canvas"></param>
+             <param name="child"></param>
+             <param name="drawingTime"></param>
+             <returns></returns>
+        </member>
+        <member name="M:ButtonCircle.FormsPlugin.Droid.ButtonCircleRenderer.OnElementChanged(Xamarin.Forms.Platform.Android.ElementChangedEventArgs{Xamarin.Forms.Button})">
+             <summary>
+            
+             </summary>
+             <param name="e"></param>
+        </member>
+    </members>
+</doc>

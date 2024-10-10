@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ButtonCircle.FormsPlugin.iOS</name>
+    </assembly>
+    <members>
+        <member name="T:ButtonCircle.FormsPlugin.iOS.ButtonCircleRenderer">
+            <summary>
+            ButtonCircle Renderer
+            </summary>
+        </member>
+        <member name="M:ButtonCircle.FormsPlugin.iOS.ButtonCircleRenderer.Init">
+            <summary>
+            Used for registration with dependency service
+            </summary>
+        </member>
+        <member name="M:ButtonCircle.FormsPlugin.iOS.ButtonCircleRenderer.Dispose(System.Boolean)">
+             <summary>
+            
+             </summary>
+             <param name="disposing"></param>
+        </member>
+        <member name="M:ButtonCircle.FormsPlugin.iOS.ButtonCircleRenderer.OnElementChanged(Xamarin.Forms.Platform.iOS.ElementChangedEventArgs{Xamarin.Forms.Button})">
+             <summary>
+            
+             </summary>
+             <param name="e"></param>
+        </member>
+        <member name="M:ButtonCircle.FormsPlugin.iOS.ButtonCircleRenderer.OnElementPropertyChanged(System.Object,System.ComponentModel.PropertyChangedEventArgs)">
+             <summary>
+            
+             </summary>
+             <param name="sender"></param>
+             <param name="e"></param>
+        </member>
+    </members>
+</doc>

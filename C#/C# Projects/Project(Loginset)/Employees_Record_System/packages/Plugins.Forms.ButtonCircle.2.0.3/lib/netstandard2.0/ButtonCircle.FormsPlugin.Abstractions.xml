@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ButtonCircle.FormsPlugin.Abstractions</name>
+    </assembly>
+    <members>
+        <member name="T:ButtonCircle.FormsPlugin.Abstractions.CircleButton">
+            <summary>
+            ButtonCircle Interface
+            </summary>
+        </member>
+        <member name="P:ButtonCircle.FormsPlugin.Abstractions.CircleButton.BorderColor">
+            <summary>
+            Border Color of circle image
+            </summary>
+        </member>
+        <member name="P:ButtonCircle.FormsPlugin.Abstractions.CircleButton.BorderThickness">
+            <summary>
+            Border thickness of circle image
+            </summary>
+        </member>
+        <member name="P:ButtonCircle.FormsPlugin.Abstractions.CircleButton.FontIcon">
+            <summary>
+            Gets or sets the font.
+            </summary>
+            <value>
+            The icon.
+            </value>
+        </member>
+        <member name="P:ButtonCircle.FormsPlugin.Abstractions.CircleButton.Icon">
+            <summary>
+            Gets or sets the icon.
+            </summary>
+            <value>
+            The icon.
+            </value>
+        </member>
+        <member name="F:ButtonCircle.FormsPlugin.Abstractions.CircleButton.BorderColorProperty">
+            <summary>
+            Color property of border
+            </summary>
+        </member>
+        <member name="F:ButtonCircle.FormsPlugin.Abstractions.CircleButton.BorderThicknessProperty">
+            <summary>
+            Thickness property of border
+            </summary>
+        </member>
+        <member name="F:ButtonCircle.FormsPlugin.Abstractions.CircleButton.FontIconProperty">
+            <summary>
+            Property definition for the <see cref="T:ButtonCircle.FormsPlugin.Abstractions.Enums.Fonts"/> Property
+            </summary>
+        </member>
+        <member name="F:ButtonCircle.FormsPlugin.Abstractions.CircleButton.IconProperty">
+            <summary>
+            Property definition for the <see cref="P:ButtonCircle.FormsPlugin.Abstractions.CircleButton.Icon"/> Property
+            </summary>
+        </member>
+        <member name="M:ButtonCircle.FormsPlugin.Abstractions.FontAwesome.FontAwesomeCollection.#cctor">
+            <summary>
+            Initializes the <see cref="T:ButtonCircle.FormsPlugin.Abstractions.FontAwesome.FontAwesomeCollection" /> class.
+            </summary>
+        </member>
+        <member name="P:ButtonCircle.FormsPlugin.Abstractions.FontAwesome.FontAwesomeCollection.Icons">
+            <summary>
+            Gets the icons.
+            </summary>
+            <value>
+            The icons.
+            </value>
+        </member>
+        <member name="T:ButtonCircle.FormsPlugin.Abstractions.Helpers.Extensions">
+            <summary>
+            Global extension methods for Iconize
+            </summary>
+        </member>
+        <member name="P:ButtonCircle.FormsPlugin.Abstractions.Helpers.Extensions.DefaultIcon">
+            <summary>
+            The default icon to be displayed when the user-supplied icon key is not found
+            </summary>
+        </member>
+        <member name="M:ButtonCircle.FormsPlugin.Abstractions.Helpers.Extensions.Add(System.Collections.Generic.IList{ButtonCircle.FormsPlugin.Abstractions.IIcon},System.String,System.Char)">
+            <summary>
+            Adds the icon to the list.
+            </summary>
+            <param name="list">The list.</param>
+            <param name="key">The key.</param>
+            <param name="character">The character.</param>
+        </member>
+        <member name="M:ButtonCircle.FormsPlugin.Abstractions.Helpers.Extensions.FindIconForKey(System.String,ButtonCircle.FormsPlugin.Abstractions.Enums.Fonts)">
+            <summary>
+            Retrieve an icon from a key.
+            </summary>
+            <param name="iconKey">The icon key.</param>
+            /// <param name="font">The font of icon.</param>
+            <returns>The icon, or null if no icon matches the key</returns>
+        </member>
+        <member name="M:ButtonCircle.FormsPlugin.Abstractions.Helpers.Extensions.FindNameFileForFont(ButtonCircle.FormsPlugin.Abstractions.Enums.Fonts)">
+            <summary>
+            Retrieve a name file of font icon.
+            </summary>
+            <param name="font">The font of icon.</param>
+            <returns>The name file font, or empty string if no font matches the Enum Fonts</returns>
+        </member>
+        <member name="M:ButtonCircle.FormsPlugin.Abstractions.Helpers.Extensions.FindNameForFont(ButtonCircle.FormsPlugin.Abstractions.Enums.Fonts)">
+            <summary>
+            Retrieve a name of font icon.
+            </summary>
+            <param name="font">The font of icon.</param>
+            <returns>The name font, or empty string if no font matches the Enum Fonts</returns>
+        </member>
+        <member name="M:ButtonCircle.FormsPlugin.Abstractions.Helpers.Extensions.FindPathForFont(ButtonCircle.FormsPlugin.Abstractions.Enums.Fonts)">
+            <summary>
+            Retrieve a path of font icon.
+            </summary>
+            <param name="font">The font of icon.</param>
+            <returns>The path file font, or empty string if no font matches the Enum Fonts</returns>
+        </member>
+        <member name="T:ButtonCircle.FormsPlugin.Abstractions.Icon">
+            <summary>
+            Defines the <see cref="T:ButtonCircle.FormsPlugin.Abstractions.Icon" /> type.
+            </summary>
+            <seealso cref="T:ButtonCircle.FormsPlugin.Abstractions.IIcon" />
+        </member>
+        <member name="M:ButtonCircle.FormsPlugin.Abstractions.Icon.#ctor(System.String,System.Char)">
+            <summary>
+            Initializes a new instance of the <see cref="T:ButtonCircle.FormsPlugin.Abstractions.Icon" /> class.
+            </summary>
+            <param name="key">The key.</param>
+            <param name="character">The character.</param>
+        </member>
+        <member name="P:ButtonCircle.FormsPlugin.Abstractions.Icon.Character">
+            <summary>
+            The character matching the key in the font, for example '\u4354'
+            </summary>
+        </member>
+        <member name="P:ButtonCircle.FormsPlugin.Abstractions.Icon.Key">
+            <summary>
+            The key of icon, for example 'fa-ok'
+            </summary>
+        </member>
+        <member name="T:ButtonCircle.FormsPlugin.Abstractions.IIcon">
+            <summary>
+            Icon represents one icon in an icon font.
+            </summary>
+        </member>
+        <member name="P:ButtonCircle.FormsPlugin.Abstractions.IIcon.Character">
+            <summary>
+            The character matching the key in the font, for example '\u4354'
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:ButtonCircle.FormsPlugin.Abstractions.IIcon.Key">
+            <summary>
+            The key of icon, for example 'fa-ok'
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ButtonCircle.FormsPlugin.Abstractions.Ionicons.IoniconsCollection.#cctor">
+            <summary>
+            Initializes the <see cref="T:ButtonCircle.FormsPlugin.Abstractions.Ionicons.IoniconsCollection" /> class.
+            </summary>
+        </member>
+        <member name="P:ButtonCircle.FormsPlugin.Abstractions.Ionicons.IoniconsCollection.Icons">
+            <summary>
+            Gets the icons.
+            </summary>
+            <value>
+            The icons.
+            </value>
+        </member>
+        <member name="T:ButtonCircle.FormsPlugin.Abstractions.Material.MaterialCollection">
+            <summary>
+            Defines the <see cref="T:ButtonCircle.FormsPlugin.Abstractions.Material.MaterialCollection" /> icon collection.
+            </summary>
+        </member>
+        <member name="M:ButtonCircle.FormsPlugin.Abstractions.Material.MaterialCollection.#cctor">
+            <summary>
+            Initializes the <see cref="T:ButtonCircle.FormsPlugin.Abstractions.Material.MaterialCollection" /> class.
+            </summary>
+        </member>
+        <member name="P:ButtonCircle.FormsPlugin.Abstractions.Material.MaterialCollection.Icons">
+            <summary>
+            Gets the icons.
+            </summary>
+            <value>The icons.</value>
+        </member>
+    </members>
+</doc>
