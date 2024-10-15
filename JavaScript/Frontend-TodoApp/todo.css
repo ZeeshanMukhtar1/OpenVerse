@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+}
+.todoContainer1{
+
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 150px 130px 100px 50px;
+    column-gap: 10px;
+    row-gap: 20px;
+    margin-top: 20px;
+}
+.todo1{
+    font-size: 15px;
+    padding: 11px 10px;
+}
+.date1{
+    font-size: 15px;
+    padding: 11px 10px;
+
+}
+.time1{
+    font-size: 15px;
+    padding: 11px 10px;
+
+}
+.add{
+    background-color: rgb(9, 177, 9);
+    border-radius: 3px 10px;
+    border-color: rgb(197, 230, 230);
+    color: white;
+}
+.add:hover{
+     background-color: rgb(48, 243, 48);
+     border-color: beige;
+     cursor: pointer;
+     font-size: 15px ;
+}
+.delete{
+    background-color: rgb(223, 36, 26);
+    border-radius: 4px 3px;
+    border-color: rgb(8, 11, 11);
+    padding: 5px;
+    font-size: 15px;
+    width: fit-content; 
+}
+.delete:hover{
+    background-color: rgb(233, 22, 10);
+    border-color: rgb(40, 40, 35);
+    cursor: pointer;
+    font-size: 14px ;
+}
