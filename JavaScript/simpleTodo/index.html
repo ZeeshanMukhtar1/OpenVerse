@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=\, initial-scale=1.0">
+    <title>TO DO</title>
+</head>
+<body>
+    <input id="task" type="text" placeholder="enter task">
+    <br><br>
+    <input id="description" type="text" placeholder="enter description">    
+    <br><br>
+    <button onclick="add()" >Add ToDo</button>
+    <div id="container"></div>
+</body>
+<script>
+   function createChild(title, child){
+
+ const parent=document.createElement("div");
+ const child1=document.createElement("div");
+ child1.innerHTML="title"
+ const child2=document.createElement("div");
+ child2.innerHTML="child";
+ const child3=document.createElement("button");
+ child3.innerHTML="mark as done";
+ child3.setAttribute("onclick","this.innerHTML='done'");
+ parent.appendChild(child1);
+ parent.appendChild(child2);
+ parent.appendChild(child3);
+ return parent;
+
+
+ 
+
+
+
+    }
+
+async function add(){
+
+const t=document.getElementById("task").value;
+const d=document.getElementById("description").value
+let parent=document.getElementById("container");
+const child= createChild(t,d);
+parent.appendChild(child);
+
+// document.getElementById("container").innerHTML=origionalHtml + `<div> 
+//     <div> ${t} </div>
+//     <div> ${d} </div>
+//     <button  onclick="this.innerHTML='done'"">not done</button>
+// </div>`
+
+}
+
+</script>
+</html>
