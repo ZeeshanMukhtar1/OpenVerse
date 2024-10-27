@@ -29,6 +29,7 @@ int bin_pow_iterative(int a, int b) {
 }
 
 int main() {
+    // In this code, we assume 0 ** 0 = 1.
     int a, b;
     std::cin >> a >> b;
     std::cout << a << " to the power of " << b << " is " << bin_pow_iterative(a, b) << std::endl;
