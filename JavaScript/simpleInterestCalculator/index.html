@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>interest calulator</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+    
+
+</head>
+<script>
+    async function cal() {
+        const p = document.getElementById("1").value;
+        const r = document.getElementById("2").value;
+        const t = document.getElementById("3").value;
+        
+     fetch("http://localhost:3000/interest?p="+p+"&r="+r+"&t="+t).then(function(response) {
+    return response.json();
+}).then(function(response){
+    document.getElementById('interest').innerHTML = response.interest +" interest";
+    document.getElementById('amount').innerHTML = response.amount + " amount";
+       
+    }); }
+</script>
+
+
+<body>
+
+
+
+    
+<input id="1" type="number" placeholder="Principle" >
+<br></br>
+<input id="2" type="number" placeholder="Rate">
+<br></br>
+<input id="3" type="number" placeholder="Time  ">
+<br> <br>
+<button onclick="cal()" >Calculate Interest</button>
+<div id="interest">Interest</div>
+<div id="amount">Amount</div>
+
+
+
+
+</body>
+</html>
