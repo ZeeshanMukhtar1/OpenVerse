@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Color Palette Generator</title>
+    <link rel="stylesheet" href="index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <label id="title" for="theme">Choose Color Theme</label>
+        <div style="display: flex; gap: 32px;margin: 16px;">
+
+            <select name="theme" id="theme">
+                <option value="21-14-96-89">Pastel</option>
+                <option value="83-73-76-56">Jewel</option>
+                <option value="41-36-77-36">Earth</option>
+                <option value="100-63-100-82">Fluorescent</option>
+                <option value="10-1-99-70">Neutral</option>
+                <option value="0-0-100-0">Shades</option>
+            </select>
+
+            <button id="button" onclick="colorGen()">Press</button>
+        </div>
+    </div>
+    <div id="Palette">
+        <div class="color-box">
+            <p class="text"></p>
+        </div>
+        <div class="color-box">
+            <p class="text"></p>
+        </div>
+        <div class="color-box">
+            <p class="text"></p>
+        </div>
+        <div class="color-box">
+            <p class="text"></p>
+        </div>
+        <div class="color-box">
+            <p class="text"></p>
+        </div>
+    </div>
+    <script src="index.js"></script>
+</body>
+
+</html>
