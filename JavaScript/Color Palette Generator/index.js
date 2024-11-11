@@ -1,15 +1,19 @@
-// generate and implement random theme of colors
+// Generate and implement random theme of colors
 function colorGen() {
-    let theme = document.getElementById("theme")
-    const selectedValue = theme.value;
-    const segments = selectedValue.split('-');
+    const theme = document.getElementById("theme");
+    if (!theme || !theme.value) {
+        console.error("Theme element or value is missing.");
+        return; // Exit if theme or its value is missing
+    }
+
+    const segments = theme.value.split('-');
     let sHigh = Number(segments[0]);
     let sLow = Number(segments[1]);
     let bHigh = Number(segments[2]);
     let bLow = Number(segments[3]);
-    let colorArray = []
+    let colorArray = [];
 
-    // get random color values
+    // Generate random color values
     for (let i = 0; i < 5; i++) {
         let saturation = hslGen(sHigh, sLow);
         let brightness = hslGen(bHigh, bLow);
@@ -17,21 +21,23 @@ function colorGen() {
         colorArray[i] = `hsl(${hue}, ${saturation}%, ${brightness}%)`;
     }
 
-    // changing color of divs
-    let boxes = document.querySelectorAll(".color-box");
+    // Select elements outside the loop for improved efficiency
+    const boxes = document.querySelectorAll(".color-box");
+    const texts = document.querySelectorAll(".text");
+
+    // Change color of divs and update text
     boxes.forEach((element, index) => {
-        let iP = document.querySelectorAll(".text")
-        iP[index].innerText = `${colorArray[index]}`
-        element.style.backgroundColor = colorArray[index];
+        if (colorArray[index]) {
+            texts[index].innerText = colorArray[index];
+            element.style.backgroundColor = colorArray[index];
+        }
     });
 }
 
-// function for number generation between a range
+// Function for generating numbers within a range
 function hslGen(max, min) {
-    let color = Math.floor(Math.random() * (max - min + 1)) + min;
-    return color;
+    return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
-
-// for first generation
-colorGen()
+// Generate initial colors on document load
+document.addEventListener("DOMContentLoaded", colorGen);
